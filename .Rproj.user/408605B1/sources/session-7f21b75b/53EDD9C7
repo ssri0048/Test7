@@ -3,9 +3,9 @@
     "path": "~/Downloads/Test7/Test7.Rmd",
     "project_path": "Test7.Rmd",
     "type": "r_markdown",
-    "hash": "86518880",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1684547368164.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -13,15 +13,16 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "21,0",
-        "scrollLine": "16"
+        "cursorPosition": "19,2",
+        "scrollLine": "16",
+        "last_setup_crc32": "7f21b75bbb338d19"
     },
     "folds": "",
     "lastKnownWriteTime": 1684547393,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684547393628,
+    "last_content_update": 1684547883602,
     "read_only": false,
     "read_only_alternatives": []
 }
